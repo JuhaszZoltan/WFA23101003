@@ -1,0 +1,2 @@
+Év;Név;SzületésHalálozás;Országkód
+2023;Juhasz Zoltan;1990-2024;H
